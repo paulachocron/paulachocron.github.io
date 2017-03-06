@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+## Papers
 
-You can use the [editor on GitHub](https://github.com/paulachocron/paulachocron.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### 2017
+-  Paula Chocron, Marco Schorlemmer; Vocabulary Alignment in Openly Specified Interactions. Accepted for publication at the International Conference on Autonomous Agents and Multi-Agent Systems (AAMAS). 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 2016
+-  Paula Chocron, Marco Schorlemmer; Attuning Ontology Alignments to Semantically Heterogeneous Multi-Agent Interactions. Proceedings of the 22nd European Conference on Artificial Intelligence (ECAI 2016).
 
-### Markdown
+- Paula Chocron, Marco Schorlemmer; Interaction Specifications as Contexts for Ontologies. Proceedings of the Joint Ontology Workshops, co-located with FOIS 2016.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- Paula Chocron, Marco Schorlemmer; Ontology Alignment Evaluation in the Context of Multi-Agent Interactions. Proceedings of the 11th International Workshop on Ontology Matching, co-located with the 15th International Semantic Web Conference (ISWC 2016).
 
-```markdown
-Syntax highlighted code block
+### 2015
+- Paula Chocron, Marco Schorlemmer; Social Coordination Systems with Ontology and Protocol Heterogeneity. Artificial Intelligence Research and Development. Proceedings of the 18th International Conference of the Catalan Association for Artificial Intelligence, Valencia, Catalonia, Spain, October 21-23, 2015. 
 
-# Header 1
-## Header 2
-### Header 3
+- Paula Chocron, Pascal Fontaine, Christophe Ringeissen: A Polite Non-Disjoint Combination Method: Theories with Bridging Functions Revisited. Proceedings of the 25th International Conference on Automated Deduction (CADE).
 
-- Bulleted
-- List
+- Paula Chocron, Pascal Fontaine, Christophe Ringeissen; A Rewriting Approach to the Combination of Data Structures with Bridging Theories. Proceedings of the 10th International Symposium on Frontiers of Combining Systems (FroCos)
 
-1. Numbered
-2. List
+### 2014
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/paulachocron/paulachocron.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- Paula Chocron, Pascal Fontaine, Christophe Ringeissen; A Gentle Non-disjoint Combination of Satisfiability Procedures. Proceedings of the 7th International Joint Conference on Automated Reasoning (IJCAR)
