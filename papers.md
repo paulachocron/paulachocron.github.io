@@ -13,7 +13,6 @@ title: Publications
 
 - Paula Chocron, Marco Schorlemmer; *Ontology Alignment Evaluation in the Context of Multi-Agent Interactions*. Proceedings of the 11th International Workshop on Ontology Matching, co-located with the 15th International Semantic Web Conference (ISWC 2016). [PDF](https://www.iiia.csic.es/sites/default/files/om2016_tpaper3.pdf)
 
-- lolo
 
 ### 2015
 - Paula Chocron, Marco Schorlemmer; *Social Coordination Systems with Ontology and Protocol Heterogeneity*. Artificial Intelligence Research and Development. Proceedings of the 18th International Conference of the Catalan Association for Artificial Intelligence (CCIA). [PDF](https://www.iiia.csic.es/sites/default/files/ccia201534.pdf)
