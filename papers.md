@@ -4,7 +4,7 @@ title: Publications
 ---
 
 ### 2017
--  Paula Chocron, Marco Schorlemmer; *Vocabulary Alignment in Openly Specified Interactions*. Accepted for publication at the International Conference on Autonomous Agents and Multi-Agent Systems (AAMAS). [PDF](https://arxiv.org/abs/1703.02367)
+-  Paula Chocron, Marco Schorlemmer; *Vocabulary Alignment in Openly Specified Interactions*. Accepted for publication at the International Conference on Autonomous Agents and Multi-Agent Systems (AAMAS). 
 
 ### 2016
 -  Paula Chocron, Marco Schorlemmer; *Attuning Ontology Alignments to Semantically Heterogeneous Multi-Agent Interactions*. Proceedings of the 22nd European Conference on Artificial Intelligence (ECAI 2016). [PDF](https://www.iiia.csic.es/sites/default/files/faia285-0871_0.pdf)
