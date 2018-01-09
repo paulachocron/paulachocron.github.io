@@ -9,6 +9,7 @@ title:            Paula Chocron
 tagline:          'Personal Webpage'
 description:      'Email: pcho..@iiia.csic.es'
 baseurl:          /
+root:             /
 
 author:
   name:           'Paula Chocron'
