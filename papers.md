@@ -24,4 +24,3 @@ title: Publications
 ### 2014
 
 - Paula Chocron, Pascal Fontaine, Christophe Ringeissen; *A Gentle Non-disjoint Combination of Satisfiability Procedures*. Proceedings of the 7th International Joint Conference on Automated Reasoning (IJCAR).
-Hello World
