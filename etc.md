@@ -1,6 +1,6 @@
 ---
-layout: page
-title: Other activities
+layout: default
+title: Activities
 ---
 
 ### Academic visits
