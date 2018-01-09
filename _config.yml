@@ -1,5 +1,5 @@
 # Dependencies
-highlighter:      pygments
+highlighter:      rouge
 
 # Permalinks
 permalink:        pretty
@@ -8,7 +8,7 @@ permalink:        pretty
 title:            Paula Chocron
 tagline:          'Personal Webpage'
 description:      'Email: pcho..@iiia.csic.es'
-baseurl:          /index
+baseurl:          /
 
 author:
   name:           'Paula Chocron'
@@ -22,4 +22,4 @@ github:
   repo:           https://github.com/paulachocron
   
 # Gems
-gems: [jekyll-paginate]
+gems: [jekyll-paginate, github-pages]
