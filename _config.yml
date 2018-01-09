@@ -8,7 +8,7 @@ permalink:        pretty
 title:            Paula Chocron
 tagline:          'Personal Webpage'
 description:      'Email: pcho..@iiia.csic.es'
-baseurl:          /index
+baseurl:          /
 url:              https://paulachocron.github.io
 
 
