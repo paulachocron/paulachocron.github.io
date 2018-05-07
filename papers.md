@@ -4,12 +4,14 @@ title: Publications
 ---
 ### 2018
 
+-  Paula Chocron, Paolo Pareti; *Vocabulary Alignment for Collaborative Agents: a Study with Real-World Multilingual How-to Instructions*. Accepted for publication at the International Joint Conference on Artificial Intelligence (IJCAI 2018) 
+
 -  Paula Chocron, Marco Schorlemmer; *Inferring Commitment Semantics in Multi-Agent Interactions*. Accepted for publication at the International Conference on Autonomous Agents and Multi-Agent Systems (AAMAS 2018) 
 
 ### 2017
 - Paula Chocron, Marco Schorlemmer; Vocabulary Alignment for Agents with Flexible Protocols. Proceedings of the Joint Ontology Workshops 2017 (JOWO 2017) [PDF](https://www.iiia.csic.es/sites/default/files/winks_paper_2.pdf)
 
-- Paula Chocron, Marco Schorlemmer; Vocabulary Alignment in Openly Specified Interactions. Proceedings of the 16th Conference on Autonomous Agents and MultiAgent Systems, (AAMAS 2017) [https://www.iiia.csic.es/sites/default/files/chocron17.pdf)
+- Paula Chocron, Marco Schorlemmer; Vocabulary Alignment in Openly Specified Interactions. Proceedings of the 16th Conference on Autonomous Agents and MultiAgent Systems, (AAMAS 2017) [PDF] (https://www.iiia.csic.es/sites/default/files/chocron17.pdf)
 
 
 ### 2016
