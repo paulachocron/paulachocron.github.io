@@ -11,7 +11,7 @@ title: Publications
 ### 2017
 - Paula Chocron, Marco Schorlemmer; Vocabulary Alignment for Agents with Flexible Protocols. Proceedings of the Joint Ontology Workshops 2017 (JOWO 2017) [PDF](https://www.iiia.csic.es/sites/default/files/winks_paper_2.pdf)
 
-- Paula Chocron, Marco Schorlemmer; Vocabulary Alignment in Openly Specified Interactions. Proceedings of the 16th Conference on Autonomous Agents and MultiAgent Systems, (AAMAS 2017) [PDF] (https://www.iiia.csic.es/sites/default/files/chocron17.pdf)
+- Paula Chocron, Marco Schorlemmer; Vocabulary Alignment in Openly Specified Interactions. Proceedings of the 16th Conference on Autonomous Agents and MultiAgent Systems, (AAMAS 2017) [PDF](https://www.iiia.csic.es/sites/default/files/chocron17.pdf)
 
 
 ### 2016
